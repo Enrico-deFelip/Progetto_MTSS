@@ -3,7 +3,6 @@
 
 # **Inventario**
 
-## **Componenti**
 ## **Processori in vendita**
 P01&nbsp;&nbsp;&nbsp; P02&nbsp;&nbsp;&nbsp; P03&nbsp;&nbsp;&nbsp; P04<br>
 P05&nbsp;&nbsp;&nbsp; P06&nbsp;&nbsp;&nbsp; P07&nbsp;&nbsp;&nbsp; P08<br>
@@ -17,5 +16,7 @@ MB05&nbsp;&nbsp;&nbsp; MB06&nbsp;&nbsp;&nbsp; MB07&nbsp;&nbsp;&nbsp; MB08<br>
 MB09&nbsp;&nbsp;&nbsp; MB10&nbsp;&nbsp;&nbsp; MB11&nbsp;&nbsp;&nbsp; MB12<br>
 MB13&nbsp;&nbsp;&nbsp; MB14&nbsp;&nbsp;&nbsp; MB15&nbsp;&nbsp;&nbsp; MB16<br>
 MB17&nbsp;&nbsp;&nbsp; MB18&nbsp;&nbsp;&nbsp; MB19&nbsp;&nbsp;&nbsp; MB20<br>
+
+## **Periferiche**
 
 *Elettronica Padovana*
