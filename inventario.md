@@ -3,6 +3,7 @@
 
 # **Inventario**
 
+## **Componenti**
 ## **Processori in vendita**
 P01&nbsp;&nbsp;&nbsp; P02&nbsp;&nbsp;&nbsp; P03&nbsp;&nbsp;&nbsp; P04<br>
 P05&nbsp;&nbsp;&nbsp; P06&nbsp;&nbsp;&nbsp; P07&nbsp;&nbsp;&nbsp; P08<br>
